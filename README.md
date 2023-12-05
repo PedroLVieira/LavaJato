@@ -24,3 +24,11 @@
 - Cadastrar administrador
 - Lavagem fidelidade
 - Função adicionar lavagem para o cartão fidelidade
+
+# Equipe
+
+- Iago Dutra
+- George Garcia
+- Kaio Nóbrega
+- Felipe Marinho
+- Pedro Lucas Dutra
