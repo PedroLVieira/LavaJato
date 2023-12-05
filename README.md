@@ -7,7 +7,7 @@
   
   ![image](https://github.com/PedroLVieira/LavaJato/assets/135363357/4ed0b448-db1f-4761-b6de-43f8dd262f5a)
 
-+ Requisitos:
+# Requisitos:
   
 - Verificar lucros
 - Renda líquida 
