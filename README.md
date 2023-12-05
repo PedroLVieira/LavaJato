@@ -8,18 +8,19 @@
   ![image](https://github.com/PedroLVieira/LavaJato/assets/135363357/4ed0b448-db1f-4761-b6de-43f8dd262f5a)
 
 + Requisitos:
-Verificar lucros
-- renda líquida 
-- renda bruta
-verificar gastos
+  
+- Verificar lucros
+- Renda líquida 
+- Renda bruta
+- Verificar gastos
 - Gasto com água 
-- gasto com energia
-adicionar gastos
-- adicionar gastos elétricos 
-- adicionar gastos água 
-adicionar lucro
-função cadastro
-- adicionar cliente
-- cadastrar administrador
-lavagem fidelidade
-- função adicionar lavagem para o cartão fidelidade
+- Gasto com energia
+- Adicionar gastos
+- Adicionar gastos elétricos 
+- Adicionar gastos água 
+- Adicionar lucro
+- Função cadastro
+- Adicionar cliente
+- Cadastrar administrador
+- Lavagem fidelidade
+- Função adicionar lavagem para o cartão fidelidade
